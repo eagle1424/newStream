@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="17">
+            <item index="0" class="java.lang.String" itemvalue="streamlit-pandas-profiling" />
+            <item index="1" class="java.lang.String" itemvalue="opt-einsum" />
+            <item index="2" class="java.lang.String" itemvalue="pandas-profiling" />
+            <item index="3" class="java.lang.String" itemvalue="streamlit-elements" />
+            <item index="4" class="java.lang.String" itemvalue="streamlit" />
+            <item index="5" class="java.lang.String" itemvalue="streamlit-apexjs" />
+            <item index="6" class="java.lang.String" itemvalue="packaging" />
+            <item index="7" class="java.lang.String" itemvalue="plotly" />
+            <item index="8" class="java.lang.String" itemvalue="numpy" />
+            <item index="9" class="java.lang.String" itemvalue="plotly-express" />
+            <item index="10" class="java.lang.String" itemvalue="pandas" />
+            <item index="11" class="java.lang.String" itemvalue="streamlit-option-menu" />
+            <item index="12" class="java.lang.String" itemvalue="streamlit-card" />
+            <item index="13" class="java.lang.String" itemvalue="seaborn" />
+            <item index="14" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="15" class="java.lang.String" itemvalue="oauthlib" />
+            <item index="16" class="java.lang.String" itemvalue="numerize" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
